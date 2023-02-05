@@ -1,0 +1,1 @@
+from src.sep import Turkce
